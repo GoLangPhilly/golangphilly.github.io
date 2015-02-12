@@ -1,0 +1,14 @@
+# Site settings
+title: GoLangPhilly
+#email: dherbst@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is the GoLangPhilly website to aggregate information about the
+  GoLangPhilly meetups and collect the slides and links.  We also will
+  list information about the projects we work on here.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://golangphilly.github.io" # the base hostname & protocol for your site
+twitter_username: golangphilly
+github_username:  golangphilly
+
+# Build settings
+markdown: kramdown
