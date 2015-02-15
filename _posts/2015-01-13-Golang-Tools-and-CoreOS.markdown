@@ -15,7 +15,7 @@ categories: golang coreos
 
  * Jon Wear talking about goimport, go vet, go fmt and -race
  * Kiril talking about CoreOS
-    * https://github.com/kzvezdarov/talks/tree/master/coreos-golangplilly-13-01-2015
+    * [https://github.com/kzvezdarov/talks/tree/master/coreos-golangplilly-13-01-2015]
 
 {% highlight go %}
 func main() {
