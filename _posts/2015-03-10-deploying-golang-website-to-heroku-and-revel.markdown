@@ -14,6 +14,7 @@ Deploying a GoLang Website to Heroku with Revel... or how to get a fast website 
 6:50-7pm Lightning Talks
 
 7pm - 8pm Rafael will speak about Heroku and Revel and creating a website
+  * slides [http://www.zcarioca.net/slideshow/deploying-a-go-website-with-heroku-and-revel#/]
 
 {% highlight go %}
 func main() {
