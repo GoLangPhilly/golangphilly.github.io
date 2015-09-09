@@ -2,7 +2,7 @@
 
 layout: post
 title: "July 21 - Golang with AWS Lambda"
-date: 2015-09-08 18:30:00
+date: 2015-07-21 18:30:00
 
 categories: golang aws lambda
 ---
